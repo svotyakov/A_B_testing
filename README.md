@@ -1,12 +1,5 @@
-# A/B testing theory
+## A/B testing projects
 
-## Task
-
-Make A / B testing using several methods
-
-## Data
-
-Sales data before and after website redesign
-
-## Libraries used
-*pandas, numpy, scipy stats, matplotlib*
+| Project name | Description | Libraries used | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [A/B testing theory](big_cities_music) | Making A / B testing using several methods| *pandas, numpy, scipy stats, matplotlib* |
